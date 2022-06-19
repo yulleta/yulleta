@@ -12,7 +12,7 @@
  😻 I am a cat lover and I am rasing a cat whose name is "KKong"<br/>
  🎵 I am a fan of K-POP. My fav K-POP group is (G-)IDLE <br/>
  
- <hr/>
+ <br/>
  
  <div><strong>🔧Tech stacks🔧</strong><br/>learnt or learning</div>
  <br/>
