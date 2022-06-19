@@ -1,5 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFa9a0&height=150&section=header&text=๑'ٮ'๑&fontColor=997950&fontSize=40&&stroke=997950&strokeWidth=1)
 
+ <a href="https://www.instagram.com/mk.kim_wendy/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-ff69b4.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  https://simpleicons.org/icons/instagram.svg
+  <img alt="이미지명" src ="https://img.shields.io/badge/메시지-색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/>
+</a>
+ 
+ 
 <!--
 **yulleta/yulleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
