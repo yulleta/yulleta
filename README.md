@@ -2,7 +2,7 @@
 <!-- https://simpleicons.org/?q=react -->
 
 <div align="center">
- <img  width = "150px" height = "150px"src="https://ouch-cdn2.icons8.com/FjDkinjPMOux0iZ04JaLe-8cQ28QLZXiLAEzL9J8Y_8/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTMv/ODI5ODk2MWItNzk0/Yi00MDkyLTkxMTIt/YTY1NmIwNGM0MTRi/LnN2Zw.png"></img>
+ <img  width = "200px" height = "200px"src="https://ouch-cdn2.icons8.com/FjDkinjPMOux0iZ04JaLe-8cQ28QLZXiLAEzL9J8Y_8/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTMv/ODI5ODk2MWItNzk0/Yi00MDkyLTkxMTIt/YTY1NmIwNGM0MTRi/LnN2Zw.png"></img>
  <div><strong>😆About Me😆</strong></div>
  <br/>
  💻 I'm studying at Sookmyung Women University, majoring in CS<br/>
@@ -40,5 +40,3 @@
   </a>
 </div>
 <br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulleta)](https://github.com/yulleta/github-readme-stats) 
