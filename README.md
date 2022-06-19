@@ -39,8 +39,6 @@
    <img src="https://img.shields.io/badge/IT roadmap-e34c26.svg?style=for-the-badge&logo=Miro&logoColor=white"/>
   </a>
 </div>
-<hr/>
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulleta)](https://github.com/yulleta/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulleta)](https://github.com/yulleta/github-readme-stats)
