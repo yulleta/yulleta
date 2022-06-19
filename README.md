@@ -14,6 +14,8 @@
  
  <br/>
  
+ <hr/>
+ 
  <div><strong>🔧Tech stacks🔧</strong><br/>learnt or learning</div>
  <br/>
   <img src="https://img.shields.io/badge/HTML-e34c26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
