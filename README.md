@@ -14,17 +14,6 @@
  
  <br/>
  
- <div><strong>⭐SNS⭐</strong></div>
- <br/>
- <a href="https://www.instagram.com/mk.kim_wendy/" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-ff69b4.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
- </a>
- <a href="https://www.facebook.com/profile.php?id=100010993726259" target="_blank">
-   <img src="https://img.shields.io/badge/Facebook-3B5998.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
- </a>
- 
-  <hr/>
- 
  <div><strong>🔧Tech stacks🔧</strong><br/>learnt or learning</div>
  <br/>
   <img src="https://img.shields.io/badge/HTML-e34c26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
