@@ -12,7 +12,7 @@
  😻 I am a cat lover and I am rasing a cat whose name is "KKong"<br/>
  🎵 I am a fan of K-POP. My fav K-POP group is (G-)IDLE <br/>
  
- <br/>
+ <br/><br/>
  
  <div><strong>🔧Tech stacks🔧</strong><br/>learnt or learning</div>
  <br/>
@@ -32,7 +32,9 @@
   <img src="https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
-  <br/><br/>
+  
+  <br/><br/><br/>
+  
   <div><strong>🌠Check out my miro board!🌠</strong></div>
   <div>The whole roadmap I'm following for learning</div><br/>
   <a href = "https://miro.com/app/board/uXjVOtxfYk0=/" target="_blank">
