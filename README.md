@@ -1,10 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFa9a0&height=150&section=header&text=๑'ٮ'๑&fontColor=997950&fontSize=40&&stroke=997950&strokeWidth=1&animation=twinkling)
-
-<br/><br/><br/><br/><br/>
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFa9a0&height=150&section=header&text=๑'ٮ'๑&fontColor=FFFFFF&fontSize=40&&&animation=twinkling)
 
 <div align="center">
+ <br/><br/>
+ 
+ 🔭 I’m currently working on a team collaborative toy-project<br/>
+ 🌱 I’m currently learning front-end / back-end stacks used for toy-projects<br/>
+ 📫 MY e-mail address: mg09091234@gmail.com<br/>
+ 😻 I am a cat - lover and I am rasing a cat whose name is "KKong"<br/>
+
+ <br/><br/>
  <div>⭐SNS⭐</div>
  <br/>
  <a href="https://www.instagram.com/mk.kim_wendy/" target="_blank">
