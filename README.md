@@ -10,7 +10,7 @@
  🌱 I’m currently learning front-end / back-end stacks used for toy-projects<br/>
  📫 MY e-mail address: mg09091234@gmail.com<br/>
  😻 I am a cat lover and I am rasing a cat whose name is "KKong"<br/>
- 🎵 I am a fan of K-POP. My fav K-POP group is (G-)IDLE <br/>
+ 🎵 I am a fan of K-POP. My fav K-POP group is (G)I-DLE <br/>
  
  <br/><br/>
  
