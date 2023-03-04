@@ -7,10 +7,9 @@
  <br/>
  💻 I'm studying at Sookmyung Women University, majoring in CS<br/>
  🔭 I’m currently working on a team collaborative toy-project<br/>
- 🌱 I’m currently learning front-end / back-end stacks used for toy-projects<br/>
  📫 MY e-mail address: mg09091234@gmail.com<br/>
  😻 I am a cat lover and I am rasing a cat whose name is "KKong"<br/>
- 🎵 I am a fan of K-POP. My fav K-POP group is (G)I-DLE <br/>
+ 🎵 I am a fan of K-POP<br/>
  
  <br/><br/>
   
