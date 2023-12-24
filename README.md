@@ -3,10 +3,13 @@
 
 <div align="center">
  <img  width = "200px" height = "200px"src="https://ouch-cdn2.icons8.com/FjDkinjPMOux0iZ04JaLe-8cQ28QLZXiLAEzL9J8Y_8/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTMv/ODI5ODk2MWItNzk0/Yi00MDkyLTkxMTIt/YTY1NmIwNGM0MTRi/LnN2Zw.png"></img>
+
+![MY_DREAM001](https://github.com/yulleta/yulleta/assets/81565724/2e398de3-d483-4eb2-81d0-4c608bf8e9cf)
+
+ 
  <div><strong>😆About Me😆</strong></div>
  <br/>
  💻 I'm studying at Sookmyung Women University, majoring in CS<br/>
- 🔭 I’m currently working on a team collaborative toy-project<br/>
  📫 MY e-mail address: mg09091234@gmail.com<br/>
  😻 I am a cat lover and I am rasing a cat whose name is "KKong"<br/>
  🎵 I am a fan of K-POP<br/>
