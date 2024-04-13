@@ -8,16 +8,10 @@
  <div><strong>😆About Me😆</strong></div>
  <br/>
  💻 I'm studying at Sookmyung Women University, majoring in CS<br/>
- 📫 MY e-mail address: mg09091234@gmail.com<br/>
  😻 I am a cat lover and I am rasing a cat whose name is "KKong"<br/>
  🎵 I am a fan of K-POP<br/>
  
  <br/><br/>
-  
-  <div><strong>🌠Check out my miro board!🌠</strong></div>
-  <div>The whole roadmap I'm following for learning</div><br/>
-  <a href = "https://miro.com/app/board/uXjVOtxfYk0=/" target="_blank">
-   <img src="https://img.shields.io/badge/IT roadmap-e34c26.svg?style=for-the-badge&logo=Miro&logoColor=white"/>
-  </a>
+ 
 </div>
 <br/>
