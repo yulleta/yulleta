@@ -101,7 +101,7 @@
             <td>ICT 멘토링 스마트해상물류 프로젝트</td>
             <td>강화학습을 이용한 최적의 항만 화물차 입항 스케줄링 시스템 개발</td>
             <td>
-             <strong>💡Ideation</strong><br/>
+             <strong>💡Ideation Leader</strong><br/>
              <strong>📊Analysis</strong> : Time-series data<br/>
              <strong>🦾RL</strong> : Alphago-zero<br/>
              <strong>👩🏻‍💻Implement</strong> : FE&BE
