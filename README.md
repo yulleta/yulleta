@@ -34,7 +34,7 @@ STUDY & CREATE <br/>
 <strong>🦾RL </strong> ⭐⭐⭐ <br/>
 <strong>🤖Multi-modal </strong> ⭐⭐ <br/>
 <strong>📐LinearAlgebra_Calculus_Statistics </strong> ⭐⭐ <br/>
-<strong>🤖Machine Learning </strong> ⭐⭐⭐⭐ <br/>
+<strong>⚙️Machine Learning </strong> ⭐⭐⭐⭐ <br/>
 
 <h4 align="left">ML/DL</h4>
 <div align="left">
@@ -83,6 +83,7 @@ STUDY & CREATE <br/>
              <strong>💡Ideation Leader</strong><br/> 
              <strong>📊Analysis</strong><br/>
              <strong>🗣NLP</strong> : LLM fine-tuning(LoRA)<br/> 
+             <strong>🌐API</strong> : GPT3 <br/>
              <strong>👩🏻‍💻Implement</strong> : FE&BE
             </td>
             <td>2024.01 ~ 2024.07.27</td>
