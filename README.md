@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFa9a0&height=150&section=header&text=!STUDYandCREATE!&fontColor=FFFFFF&fontSize=40&&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFa9a0&height=150&section=header&text=(˶ˆᗜˆ˵)&fontColor=FFFFFF&fontSize=40&&&animation=twinkling)
 <!-- https://simpleicons.org/?q=react -->
 
 <br/><br/>
