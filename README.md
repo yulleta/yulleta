@@ -12,7 +12,7 @@
 🤍💞🕊️🔥
 </h3>
 <br/>
-<div align="center">
+<div align="left">
  Hi, I am KIM MINKYUNG from South Korea <br/>
  I aim to be a <strong>competent AI researcher / engineer expertise</strong> <br/>
  My recent interest field is <strong>image/3D graphics generation & reconstruction.</strong> <br/>
@@ -24,23 +24,32 @@
 
 <br/><br/>
 
-<h3 align="center">😎 Skills</h3>
-<h4 align="center">ML/DL</h4>
-<div align="center">
+<h3 align="left">😎 Skills</h3>
+<h4 align="left">Bigdata/AI background confidence</h4>
+<strong>📊Analysis </strong> ⭐⭐⭐ <br/>
+<strong>🗣NLP </strong> ⭐⭐⭐ <br/>
+<strong>🖼️CV </strong> ⭐⭐⭐ <br/>
+<strong>🦾RL </strong> ⭐⭐⭐ <br/>
+<strong>🤖Multi-modal </strong> ⭐⭐ <br/>
+
+<br/>
+
+<h4 align="left">ML/DL</h4>
+<div align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
 </div>
-<h4 align="center">Data Analysis</h4>
-<div align="center">
+<h4 align="left">Data Analysis</h4>
+<div align="left">
   <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/matplotlib-005A9C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
-<h4 align="center">Programming</h4>
-<div align="center">
+<h4 align="left">Programming</h4>
+<div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp <br/>
   <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp
@@ -92,7 +101,7 @@
             <td>ImageBuzzy - CLIP 모델을 이용한 챗봇 기반 갤러리 내 이미지 검색 서비스</td>
             <td>
              <strong>💡Ideation Leader</strong> <br/>
-             <strong>🗣🖼️Multi-modal</strong> : CLIP<br/>
+             <strong>🤖Multi-modal</strong> : CLIP<br/>
              <strong>👩🏻‍💻Implement</strong> : FE&BE
             </td>
             <td>2023.12 ~ 2024.01</td>
