@@ -28,17 +28,19 @@
 </div>
 
 <div align="left">
- 🏛️ Major in CS / Minor in Statistics
- 💼 ㈜오토메스텔스타 산학협력 프로젝트 학생 인턴 (2024.03.01 - 2024.10.31) <br/>
- 💼 ㈜튜터러스랩스 산학협력 프로젝트 학생 인턴 (2024.03.01 - 2024.08.31) <br/>
- 🐘 BOAZ 21th member (2023.07 - 2024.07) (운영지원팀 스터디장 / 2024.01 - 2024.07) <br/>
- ‭🏆 GDSC Solution Challenge Top100 : TrueTree (2024.05) <br/>
- 📃 <a href="https://kiss.kstudy.com/Detail/Ar?key=4059591">김민경, 박수아, 이해영, 김나영 and 유상오. <br/>
- "몬테카를로 시뮬레이션, 알파고 제로, 베이즈 정리를 이용한 최적의 항만 화물차 입항 스케줄링 시스템에 대한 연구." <br/>
- 한국정보처리학회 학술대회논문집, vol. 30, no. 2, pp. 1096-1097, 2023.<br/>
- 📃 <a href="https://kiss.kstudy.com/Detail/Ar?key=4059593">이성찬, 김승한, 김민경, 조민진, 고범석 and 유용만. <br/>
- "VGG-Kface : VGG-Face를 이용한 한국인 얼굴 인식에 관한 최적화 연구." <br/>
- 한국정보처리학회 학술대회논문집, vol. 30, no. 2, pp. 1100-1101, 2023. <br/>
+ 🏛️ Major in CS 💻 / Minor in Statistics 📊 in SMWU <br/>
+ 💼 ㈜오토메스텔스타 산학협력 프로젝트 학생 인턴 _(2024.03.01 - 2024.10.31)_ <br/>
+ 💼 ㈜튜터러스랩스 산학협력 프로젝트 학생 인턴 _(2024.03.01 - 2024.08.31)_ <br/>
+ 🐘 BOAZ 21th member _(2023.07 - 2024.07)_ (운영지원팀 스터디장 / _2024.01 - 2024.07_) <br/>
+ ‭🏆 GDSC Solution Challenge Top100 : TrueTree _(2024.01 - 2024.05)_ <br/>
+ 📃 김민경, 박수아, 이해영, 김나영 and 유상오. <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"몬테카를로 시뮬레이션, 알파고 제로, 베이즈 정리를 이용한 최적의 항만 화물차 입항 스케줄링 시스템에 대한 연구." <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;한국정보처리학회 학술대회논문집, vol. 30, no. 2, pp. 1096-1097, 2023.
+ <span><a href="https://kiss.kstudy.com/Detail/Ar?key=4059591">link</span> <br/>
+ 📃 이성찬, 김승한, 김민경, 조민진, 고범석 and 유용만. <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VGG-Kface : VGG-Face를 이용한 한국인 얼굴 인식에 관한 최적화 연구." <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;한국정보처리학회 학술대회논문집, vol. 30, no. 2, pp. 1100-1101, 2023.
+  <span><a href="https://kiss.kstudy.com/Detail/Ar?key=4059593">link</span><br/>
 </div>
 
 <br/>
