@@ -30,7 +30,7 @@
 <br/>
 
 <div>
- (Check out my tech-stacks via clicking on the toggle sub-titles!) <br/>
+ (Check out my tech-stacks & experiences via clicking on the toggle sub-titles!) <br/>
  You can check my entire <a href="https://admitted-storm-2c4.notion.site/Minkyung-Kim-a4ad62d44e5f43ca8c564a89d2f9007e?pvs=4">CV here
 </div>
 
