@@ -76,8 +76,9 @@
    <div align="left">
      <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
      <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-     <img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
      <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/weights%20%26%20biases-FFBE00.svg?style=for-the-badge&logo=weights-and-biases&logoColor=white" />&nbsp
    </div>
    <h4 align="left">Data Analysis</h4>
    <div align="left">
