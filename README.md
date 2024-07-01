@@ -16,15 +16,18 @@
 🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/>
 </h3>
 <br/>
-<div align="left">
- Hi, I am KIM MINKYUNG from South Korea <br/>
- I aim to be a <strong><em>competent AI researcher / engineer expertise </em></strong> 👩‍💻🎓<br/>
- My recent interest field is <strong><em>image/3D graphics generation & reconstruction.</em></strong> <br/>
+
+ - I aim to be...<br/>
+   : a <strong><em>`competent AI researcher / engineer expertise`</em></strong> 👩‍💻🎓<br/>
+   : Think I'm an amateaur yet, BUT keep on striving to expand knowledges and stack valuable experiences
+ - My recent interest field is...<br/>
+   : <strong><em>`image/3D graphics generation & reconstruction`</em></strong> <br/>
  (but also have a keen interest on other AI sub-fields(ex. NLP, RL, graph structure data, optimization... etc.)) <br/><br/>
  
- I enjoy immersing to something fun, <br/>
- motivated to studying and implementing such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
- dreaming of the world of joy & happiness with love and freedom aided by human-centric technologies 🤍💞🕊️🔥<br/><br/>
+ - I enjoy...<br/>
+   : immersing to something <strong>FUN & Captivating</strong>, <br/>
+   - motivated to studying and implementing such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
+   - dreaming of the world of joy & happiness with love and freedom aided by human-centric technologies 🤍💞🕊️🔥<br/><br/>
 
  💗 I enjoy studying with peers <br/>
  / Helps keep motivated, conversational studying stengthens my knowledge basis deeper, <br/>
@@ -32,7 +35,7 @@
  💗 I have a cat named Kkong, one from the profile! He is Sooooo adorable!!! 😻 <br/>
  💗 I enjoy listening to music, from KPOP to Indie band music 🎵 <br/>
  (also enjoy singing though not a good singer)🎤
-</div>
+
 
 <br/>
 
@@ -68,7 +71,8 @@
 <br/>
 
 <div>
- You can check my entire <a href="https://admitted-storm-2c4.notion.site/Minkyung-Kim-a4ad62d44e5f43ca8c564a89d2f9007e?pvs=4">CV here</a>
+ You can check out my entire <span></span><a href="https://admitted-storm-2c4.notion.site/Minkyung-Kim-a4ad62d44e5f43ca8c564a89d2f9007e?pvs=4">CV here</a><br/>
+ 
 </div>
 
 <br/>
