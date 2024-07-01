@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-<h3 align="left">😎 Skills</h3>
+<h2 align="left">😎 Skills</h2>
 <h4 align="left">Bigdata/AI knowledge background confidence</h4>
 <strong>📊Analysis </strong> ⭐⭐⭐ <br/>
 <strong>🗣NLP </strong> ⭐⭐⭐ <br/>
