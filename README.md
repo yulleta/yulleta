@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFa9a0&height=150&section=header&text=🍑๑'ٮ'๑🍑&fontColor=FFFFFF&fontSize=40&&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFa9a0&height=150&section=header&text=! STUDY & CREATE !&fontColor=FFFFFF&fontSize=40&&&animation=twinkling)
 <!-- https://simpleicons.org/?q=react -->
 
 <br/><br/>
 
 <h2 align="center">
- STUDY & CREATE <br/>
  🤩💫🎈✨🧠🚩📂📚🎨✍💡
 </h2>
 <div align="center">
