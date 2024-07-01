@@ -40,7 +40,7 @@
  <h2>✨ Recent Activities</h2>
  🏛️&nbsp; Major in CS 💻 / Minor in Statistics 📊 in SMWU
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2021.03 ~ looking forward to graduate on 2026.02)</em> <br/>
- 👩‍💻&nbsp; Undergraduate Intern in AI Vision Lab
+ 👩‍💻&nbsp; Undergraduate Intern in AI Vision Lab (SMWU)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2024.05 ~ )</em> <br/>
  💼&nbsp; ㈜오토메스텔스타 산학협력 프로젝트 학생 인턴 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2024.03.01 - 2024.10.31)</em> <br/>
