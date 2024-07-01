@@ -22,8 +22,8 @@
  (but also have a keen interest on other AI sub-fields(ex. NLP, RL, graph structure data, optimization... etc.)) <br/><br/>
  
  I enjoy immersing to something fun, <br/>
- motivated to study such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
- dreaming for the world of joy & happiness with love and freedom 🤍💞🕊️🔥<br/><br/>
+ motivated to studying and implementing such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
+ dreaming of the world of joy & happiness with love and freedom 🤍💞🕊️🔥<br/><br/>
 
  ++ I have a cat named Kkong, one from the profile! He is Sooooo adorable!!! 😻 <br/>
  ++ I enjoy listening to music, from KPOP to Indie band music 🎵 <br/>
