@@ -20,7 +20,7 @@
  
  I enjoy immersing to something fun, <br/>
  motivated to study such engineering theories & skills day and night, <br/>
- dreaming of the world of joy & happiness with love and freedom <br/>
+ dreaming for the world of joy & happiness with love and freedom <br/>
 </div>
 
 <br/><br/>
