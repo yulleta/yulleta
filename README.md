@@ -29,6 +29,8 @@
    - motivated to studying and implementing such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
    - dreaming of the world of joy & happiness with love and freedom aided by human-centric technologies 🤍💞🕊️🔥<br/><br/>
 
+ - Contact me via : wendy5619@naver.com<br/><br/>
+
  💗 I enjoy studying with peers <br/>
  / Helps keep motivated, conversational studying stengthens my knowledge basis deeper, <br/>
  / and for the most, learning from new and various POV is <strong>!!FUN!!</strong> <br/>
