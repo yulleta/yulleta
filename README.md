@@ -79,13 +79,13 @@ Scikit-learn, Pytorch, Keras, Tensorflow <br/>
             <td>숙명여자대학교 제 2회 해커톤 대회</td>
             <td>누리봄 웹 서비스 개발</td>
             <td>FE/BE(django를 이용한 BE 개발 / html/css/kakao map api를 이용한 FE 개발)</td>
-            <td>2024.01 ~ 2024.06</td>
+            <td>2022.08.27 ~ 2024.08.28</td>
         </tr>
         <tr>
             <td>마켓컬리 해커톤</td>
             <td>마켓컬리’s 오밀조밀 웹 서비스 개발</td>
             <td>FE(React.js를 이용한 FE 개발)/DB ERD 구조 설계</td>
-            <td>2024.01 ~ 2024.06</td>
+            <td>2024.08.17 ~ 2024.08.24</td>
         </tr>
     </tbody>
 </table>
