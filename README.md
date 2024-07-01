@@ -19,7 +19,7 @@
  Hi, I am KIM MINKYUNG from South Korea <br/>
  I aim to be a <strong><em>competent AI researcher / engineer expertise </em></strong> 👩‍💻🎓<br/>
  My recent interest field is <strong><em>image/3D graphics generation & reconstruction.</em></strong> <br/>
- (but also have a keen interest on other AI sub-fields(ex. NLP, RL, graph structure data etc.)) <br/><br/>
+ (but also have a keen interest on other AI sub-fields(ex. NLP, RL, graph structure data, optimization... etc.)) <br/><br/>
  
  I enjoy immersing to something fun, <br/>
  motivated to study such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
@@ -90,7 +90,7 @@
      <td>⭐⭐⭐</td>
      <td>
       Studied key concepts via papers starting from tokenizers to Transformer, BERT,and LLMs <br/>
-      Recently implemented KoAlpaca with LoRA PEFT tuning and 4-bit quantization on user-item graph data for LLM base Recsys
+      Recently implemented KoAlpaca with LoRA PEFT tuning and 4-bit quantization on user-item graph data for LLM based Recsys
      </td>
    </tr>
    <tr>
