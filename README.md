@@ -3,9 +3,11 @@
 
 <br/><br/>
 
-<h2 align="left">STUDY & CREATE</h2>
-<div align="left">
- 🤩💫🎈✨🧠🚩📂📚🎨✍☺💡 <br/>
+<h2 align="center">
+ STUDY & CREATE <br/>
+ 🤩💫🎈✨🧠🚩📂📚🎨✍💡
+</h2>
+<div align="center">
  Hi, I am KIM MINKYUNG from South Korea <br/>
  I aim to be a <strong>competent AI reasearcher / engineer expertise</strong> <br/>
  My recent interest field is 3D image/graphics generation & reconstruction. <br/>
@@ -149,6 +151,8 @@ Scikit-learn, Pytorch, Keras, Tensorflow <br/>
     </tbody>
 </table>
 </div>
+
+<br/><br/>
 
 <h3 align="left">🏅 Awards & Honors</h3>
 <div align="left">
