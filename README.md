@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<h3 align="center">😎 Skills</h3>
+<h2 align="center">😎 Skills</h2>
 <h4 align="center">ML/DL</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
@@ -53,7 +53,7 @@
 
 <br/><br/>
 
-<h3 align="left">⭐ Projects</h3>
+<h2 align="left">⭐ Projects</h2>
 <div align="left" width="100%">
 <table>
     <thead>
@@ -113,7 +113,7 @@
 
 <br/><br/>
 
-<h3 align="left">💼 Internship</h3>
+<h2 align="left">💼 Internship</h2>
 <div align="left" width="100%">
 <table>
     <thead>
@@ -149,7 +149,7 @@
 
 <br/><br/>
 
-<h3 align="left">📃 Publications</h3>
+<h2 align="left">📃 Publications</h2>
 <div align="left" width="100%">
 <table>
     <thead>
@@ -173,7 +173,7 @@
 
 <br/><br/>
 
-<h3 align="left">🏅 Awards & Honors</h3>
+<h2 align="left">🏅 Awards & Honors</h2>
 <div align="left" width="100%">
 <table>
     <thead>
@@ -201,7 +201,7 @@
 
 <br/><br/>
 
-<h3 align="left">🚩 Extracurricular Activity</h3>
+<h2 align="left">🚩 Extracurricular Activity</h2>
 <div align="left" width="100%">
 <table>
     <thead>
