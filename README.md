@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFa9a0&height=150&section=header&text=🍑(˶ˆᗜˆ˵)🍑&fontColor=FFFFFF&fontSize=40&&&animation=twinkling)
 <!-- https://simpleicons.org/?q=react -->
 
+<!--
 <div align="center">
  <img src="https://github.com/yulleta/yulleta/assets/81565724/b8053488-8890-4c91-b890-f189fd8ccb25" width="150" height="150" alt="코딩베리 프사" />
 </div>
+-->
 
 <h3 align="center">
 🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/>
