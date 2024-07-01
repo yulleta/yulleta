@@ -6,7 +6,8 @@
 </div>
 
 <h3 align="center">
-🤩💫🎈✨🧠🚩📂📚🎨✍💡
+🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/>
+🤍💞🕊️🔥
 </h3>
 <div align="center">
  Hi, I am KIM MINKYUNG from South Korea <br/>
