@@ -148,6 +148,8 @@
      <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/matplotlib-005A9C.svg?style=flat-square&logo=matplotlib&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=flat-square&logo=python&logoColor=white" />&nbsp;
+     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=flat-square&logo=selenium&logoColor=white" />&nbsp;
+     <img src="https://img.shields.io/badge/beautifulsoup-FFC300.svg?style=flat-square&logo=python&logoColor=white" />&nbsp;
 </div>
 
 <h4 align="left">Programming</h4>
