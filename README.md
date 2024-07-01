@@ -44,8 +44,8 @@
 
 <br/><br/>
 
-<h3 align="left" width="100%">⭐ Projects</h3>
-<div align="left">
+<h3 align="left">⭐ Projects</h3>
+<div align="left" width="100%">
 <table>
     <thead>
         <tr>
@@ -104,8 +104,8 @@
 
 <br/><br/>
 
-<h3 align="left" width="100%">💼 Internship</h3>
-<div align="left">
+<h3 align="left">💼 Internship</h3>
+<div align="left" width="100%">
 <table>
     <thead>
         <tr>
@@ -140,8 +140,8 @@
 
 <br/><br/>
 
-<h3 align="left" width="100%">📃 Publications</h3>
-<div align="left">
+<h3 align="left">📃 Publications</h3>
+<div align="left" width="100%">
 <table>
     <thead>
         <tr>
@@ -164,8 +164,8 @@
 
 <br/><br/>
 
-<h3 align="left" width="100%">🏅 Awards & Honors</h3>
-<div align="left">
+<h3 align="left">🏅 Awards & Honors</h3>
+<div align="left" width="100%">
 <table>
     <thead>
         <tr>
