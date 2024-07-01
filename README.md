@@ -3,9 +3,9 @@
 
 <br/><br/>
 
-<h2 align="center">
+<h3 align="center">
 🤩💫🎈✨🧠🚩📂📚🎨✍💡
-</h2>
+</h3>
 <div align="center">
  Hi, I am KIM MINKYUNG from South Korea <br/>
  I aim to be a <strong>competent AI researcher / engineer expertise</strong> <br/>
@@ -18,22 +18,35 @@
 
 <br/><br/>
 
-<h3 align="left">😎 Skills</h3>
-<div align="left">
-<h5>ML/DL</h5>
-Scikit-learn, Pytorch, Keras, Tensorflow <br/>
-<h5>Data Analysis</h5>
- Numpy, Pandas, Matplotlib, Seaborn <br/>
-<h5>Programming</h5>
-- Web FE - React.js
-- App - ReactNative
-- BE, Server - node.js, Django
-- Basic programming - python, JAVA, C <br/>
+<h3 align="center">😎 Skills</h3>
+<h5 align="center">ML/DL</h5>
+<div align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
+</div>
+<h5 align="center">Data Analysis</h5>
+<div align="center">
+  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/matplotlib-005A9C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+</div>
+<h5 align="center">Programming</h5>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
 </div>
 
 <br/><br/>
 
-<h3 align="left">⭐ Projects</h3>
+<h3 align="left" width="100%">⭐ Projects</h3>
 <div align="left">
 <table>
     <thead>
@@ -93,7 +106,7 @@ Scikit-learn, Pytorch, Keras, Tensorflow <br/>
 
 <br/><br/>
 
-<h3 align="left">💼 Internship</h3>
+<h3 align="left" width="100%">💼 Internship</h3>
 <div align="left">
 <table>
     <thead>
@@ -129,7 +142,7 @@ Scikit-learn, Pytorch, Keras, Tensorflow <br/>
 
 <br/><br/>
 
-<h3 align="left">📃 Publications</h3>
+<h3 align="left" width="100%">📃 Publications</h3>
 <div align="left">
 <table>
     <thead>
@@ -153,7 +166,7 @@ Scikit-learn, Pytorch, Keras, Tensorflow <br/>
 
 <br/><br/>
 
-<h3 align="left">🏅 Awards & Honors</h3>
+<h3 align="left" width="100%">🏅 Awards & Honors</h3>
 <div align="left">
 <table>
     <thead>
