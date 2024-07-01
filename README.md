@@ -17,21 +17,21 @@
 <br/><br/>
 
 <h3 align="center">😎 Skills</h3>
-<h5 align="center">ML/DL</h5>
+<h4 align="center">ML/DL</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
 </div>
-<h5 align="center">Data Analysis</h5>
+<h4 align="center">Data Analysis</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/matplotlib-005A9C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
-<h5 align="center">Programming</h5>
+<h4 align="center">Programming</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
