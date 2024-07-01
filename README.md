@@ -198,3 +198,30 @@
 </table>
 </div>
 
+<br/><br/>
+
+<h3 align="left">🚩 Extracurricular Activity</h3>
+<div align="left" width="100%">
+<table>
+    <thead>
+        <tr>
+            <th>Organization</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>빅데이터 연합동아리 BOAZ</td>
+            <td>2023.07 ~ 2024.07</td>
+        </tr>
+        <tr>
+            <td>SMWU 빅데이터 동아리 DACOS</td>
+            <td>2022.08~2024.02</td>
+        </tr>
+        <tr>
+            <td>교내 개발 중앙 동아리 SOLUX</td>
+            <td>2021.03~2022.02</td>
+        </tr>
+    </tbody>
+</table>
+</div>
