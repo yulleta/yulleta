@@ -8,7 +8,7 @@
 -->
 
 <h1 align="left" >
- ${\textsf{\color{#fc49ac}STUDY and CREATE!! 🛠️😆}}$	
+ ${\textsf{\color{#fc49ac}STUDY and CREATE!!}}$	🛠️😆
 </h1>
 
 <h3 align="left">
