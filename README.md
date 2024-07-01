@@ -9,6 +9,7 @@
 🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/>
 🤍💞🕊️🔥
 </h3>
+<br/>
 <div align="center">
  Hi, I am KIM MINKYUNG from South Korea <br/>
  I aim to be a <strong>competent AI researcher / engineer expertise</strong> <br/>
