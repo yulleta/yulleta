@@ -8,7 +8,7 @@
 -->
 
 <h1 align="left" >
- STUDY & CREATE!! 🤩
+ STUDY & CREATE!! 😆
 </h1>
 
 <h3 align="left">
