@@ -25,7 +25,7 @@
  motivated to study such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
  dreaming for the world of joy & happiness with love and freedom 🤍💞🕊️🔥<br/><br/>
 
- ++ I have a cat named Kkong, one from the profile! He is Sooooo adroable!!! 😻 <br/>
+ ++ I have a cat named Kkong, one from the profile! He is Sooooo adorable!!! 😻 <br/>
  ++ I enjoy listening to music, from KPOP to Indie band music 🎵 <br/>
  (also enjoy singing though not a good singer)🎤
 </div>
