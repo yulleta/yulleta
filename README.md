@@ -13,74 +13,117 @@
 
 <h3 align="left">
 🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/>
-🤍💞🕊️🔥
 </h3>
 <br/>
 <div align="left">
  Hi, I am KIM MINKYUNG from South Korea <br/>
- I aim to be a <strong>competent AI researcher / engineer expertise</strong> <br/>
- My recent interest field is <strong>image/3D graphics generation & reconstruction.</strong> <br/>
+ I aim to be a <strong><em>competent AI researcher / engineer expertise </em></strong> 👩‍💻🎓<br/>
+ My recent interest field is <strong><em>image/3D graphics generation & reconstruction.</em></strong> <br/>
  (but also have a keen interest on other AI sub-fields(ex. NLP, RL, graph structure data etc.)) <br/><br/>
  
  I enjoy immersing to something fun, <br/>
- motivated to study such engineering theories & skills day and night, <br/>
- dreaming for the world of joy & happiness with love and freedom <br/>
+ motivated to study such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
+ dreaming for the world of joy & happiness with love and freedom 🤍💞🕊️🔥<br/><br/>
+
+ ++ I have a cat named Kkong, one from the profile! He is Sooooo adroable!!! 😻 <br/>
+ ++ I enjoy listening to music, from KPOP to Indie band music 🎵 <br/>
+ (also enjoy singing though not a good singer)🎤
 </div>
 
+<br/>
+
 <div align="left">
- 🏛️&nbsp; Major in CS 💻 / Minor in Statistics 📊 in SMWU <br/>
- 💼&nbsp; ㈜오토메스텔스타 산학협력 프로젝트 학생 인턴 (2024.03.01 - 2024.10.31) <br/>
- 💼&nbsp; ㈜튜터러스랩스 산학협력 프로젝트 학생 인턴 (2024.03.01 - 2024.08.31) <br/>
- 🐘&nbsp; BOAZ 21th member _(2023.07 - 2024.07) (운영지원팀 스터디장 / 2024.01 - 2024.07) <br/>
- ‭🏆&nbsp; GDSC Solution Challenge Top100 : TrueTree (2024.01 - 2024.05) <br/>
+ <h2>✨ Recent Activities</h2>
+ 🏛️&nbsp; Major in CS 💻 / Minor in Statistics 📊 in SMWU
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2021.03 ~ looking forward to graduate on 2026.02)</em> <br/>
+ 👩‍💻&nbsp; Undergraduate Intern in AI Vision Lab
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2024.05 ~ )</em> <br/>
+ 💼&nbsp; ㈜오토메스텔스타 산학협력 프로젝트 학생 인턴 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2024.03.01 - 2024.10.31)</em> <br/>
+ 💼&nbsp; ㈜튜터러스랩스 산학협력 프로젝트 학생 인턴 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2024.03.01 - 2024.08.31)</em> <br/>
+ 🐘&nbsp; BOAZ 21th member 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2023.07 - 2024.07)</em> <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;운영지원팀 스터디장 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2024.01 - 2024.07</em>) <br/>
+ ‭🏆&nbsp; GDSC Solution Challenge Top100 : TrueTree
+ &nbsp;<span><a href="https://github.com/2024-FactChecker-SolutionChallenge">link</a></span>
+ &nbsp;&nbsp;&nbsp;<em>(2024.01 - 2024.05)</em><br/>
  📃&nbsp; 김민경, 박수아, 이해영, 김나영 and 유상오. <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"몬테카를로 시뮬레이션, 알파고 제로, 베이즈 정리를 이용한 최적의 항만 화물차 입항 스케줄링 시스템에 대한 연구." <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;한국정보처리학회 학술대회논문집, vol. 30, no. 2, pp. 1096-1097, 2023.
- <span><a href="https://kiss.kstudy.com/Detail/Ar?key=4059591">link</span> <br/>
+ &nbsp;<span><a href="https://kiss.kstudy.com/Detail/Ar?key=4059591">link</a></span> 
+ &nbsp;&nbsp;&nbsp;<em>(2023.03 - 2023.11)</em><br/>
  📃 이성찬, 김승한, 김민경, 조민진, 고범석 and 유용만. <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VGG-Kface : VGG-Face를 이용한 한국인 얼굴 인식에 관한 최적화 연구." <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;한국정보처리학회 학술대회논문집, vol. 30, no. 2, pp. 1100-1101, 2023.
-  <span><a href="https://kiss.kstudy.com/Detail/Ar?key=4059593">link</span><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VGG-Kface : VGG-Face를 이용한 한국인 얼굴 인식에 관한 최적화 연구." <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;한국정보처리학회 학술대회논문집, vol. 30, no. 2, pp. 1100-1101, 2023.
+  &nbsp;<span><a href="https://kiss.kstudy.com/Detail/Ar?key=4059593">link</a></span>
+  &nbsp;&nbsp;&nbsp;<em>(2023.03 - 2023.11)</em><br/>
 </div>
 
 <br/>
 
 <div>
- You can check my entire <a href="https://admitted-storm-2c4.notion.site/Minkyung-Kim-a4ad62d44e5f43ca8c564a89d2f9007e?pvs=4">CV here
+ You can check my entire <a href="https://admitted-storm-2c4.notion.site/Minkyung-Kim-a4ad62d44e5f43ca8c564a89d2f9007e?pvs=4">CV here</a>
 </div>
 
 <br/>
 
 <h2 align="left">😎 Skills</h2>
-<h4 align="left">Bigdata/AI knowledge background confidence</h4>
+<h4 align="left">👊🏻 Bigdata/AI knowledge background confidence</h4>
  <table>
    <tr>
-     <td><strong>⚙️Machine Learning</strong></td>
+     <td><strong>⚙️ ML/DL basics</strong></td>
      <td>⭐⭐⭐⭐</td>
+     <td>
+      Studied basic algorithms, applicable to data<br/>
+      Can explain the basics of DL relatively thoroughly
+     </td>
    </tr>
    <tr>
-     <td><strong>📊Analysis</strong></td>
+     <td><strong>📊 Analysis</strong></td>
      <td>⭐⭐⭐</td>
+     <td>Able to analyze, visualize data using appropriate methods</td>
    </tr>
    <tr>
-     <td><strong>🗣NLP</strong></td>
+     <td><strong>🗣 NLP</strong></td>
      <td>⭐⭐⭐</td>
+     <td>
+      Studied key concepts via papers starting from tokenizers to Transformer, BERT,and LLMs <br/>
+      Recently implemented KoAlpaca with LoRA PEFT tuning and 4-bit quantization on user-item graph data for LLM base Recsys
+     </td>
    </tr>
    <tr>
-     <td><strong>🖼️CV</strong></td>
+     <td><strong>🖼️ CV</strong></td>
      <td>⭐⭐⭐</td>
+     <td>
+      Roughly know about the key concepts of major base models (Detection, Segmentation etc.) <br/>
+      Recently studying generative AI vision models and other basic models via paper reading/study
+     </td>
    </tr>
    <tr>
-     <td><strong>🦾RL</strong></td>
+     <td><strong>🦾 RL</strong></td>
      <td>⭐⭐⭐</td>
+     <td>
+      Studying the basics of the RL, DeepRL concepts <br/>
+      Have implemented port lorry scheduling system by customizig raw AlaphagoZero code to given time-series data of port lorry arrival
+     </td>
    </tr>
    <tr>
-     <td><strong>🤖Multi-modal</strong></td>
+     <td><strong>🤖 Multi-modal</strong></td>
      <td>⭐⭐</td>
+     <td>
+      Have an interest on it
+     </td>
    </tr>
    <tr>
-     <td><strong>📐LinearAlgebra_Calculus_Statistics</strong></td>
+     <td><strong>📐 LinearAlgebra<br/>Calculus<br/>Statistics</strong></td>
      <td>⭐⭐</td>
+     <td>
+      Have studied the overall main concepts, <br/>
+      striving to master the concpets by studying repititively <br/>
+      Personally studying statistics to gain deeper insight of data analysis
+     </td>
    </tr>
  </table>
 
@@ -92,7 +135,7 @@
      <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/keras-D00000.svg?style=flat-square&logo=keras&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/weights%20%26%20biases-FFBE00.svg?style=flat-square&logo=weights-and-biases&logoColor=white" />&nbsp;
-     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" />&nbsp;
+     <img src="https://img.shields.io/badge/huggingface-FF9900.svg?style=flat-square&logo=hugging-face&logoColor=white" />&nbsp;
 </div>
 
 <h4 align="left">Data Analysis</h4>
@@ -113,5 +156,12 @@
      <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/java-007396.svg?style=flat-square&logo=java&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=flat-square&logo=c&logoColor=white" />&nbsp;
+</div>
+
+<h4 align="left">Environment</h4>
+<div align="left">
+     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" />&nbsp;
+     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;
+     <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=flat-square&logo=google-colab&logoColor=white" />&nbsp;
 </div>
 
