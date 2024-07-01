@@ -69,56 +69,66 @@
             <td>빅데이터 연합 동아리 BOAZ</td>
             <td>GA 기반 최적화, user-item graph data based LLM Recsys fine-tuned with LoRA, 리뷰 데이터 분석 기반 Langchain을 이용한 영양제 추천 챗봇</td>
             <td>
-             #Data Analysis #NLP(LLM) #FE&BE <br/><br/>
-             전체적 챗봇 틀 기획 및 구현/ 데이터 분석 및 훈련 데이터 가공/ LLM fine-tuning/ FE&BE(React Native, Flask)</td>
+             <strong>💡Ideation</strong> - 전체적 챗봇 틀 기획 및 구현<br/> 
+             <strong>📊Analysis</strong> - 데이터 분석 및 훈련 데이터 가공<br/>
+             <strong>🗣NLP</strong> - LLM fine-tuning<br/> 
+             <strong>👩🏻‍💻Implement</strong> - FE&BE(React Native, Flask)
+            </td>
             <td>2024.01 ~ 2024.07.27</td>
         </tr>
         <tr>
             <td>GDSC Solution Challenge 2024</td>
             <td>TRUETREE - 거짓 뉴스 판별 및 뉴스 기사 독해 & 단어 학습을 통한 독해력&비판적 사고 향상 앱</td>
             <td>
-             #API&nbsp #NLP(word_embedding)&nbsp #ML Model serving&nbsp #FE <br/><br/>
-             전체적 구현 총괄 / GCP Compute Enginge, KoBERT, Flask, youtube transcript API, Gemini, 네이버 뉴스 기사 크롤링을 이용한 거짓 (유튜브) 뉴스 판별 ML Server 개발/ FE(React Native)</td>
+             <strong>💡Ideation</strong> - 전체적 구현 총괄<br/>
+             <strong>🗣NLP</strong> - KoBERT(embedding) <br/>
+             <strong>🌐API</strong> -youtube transcript API, Gemini, 실시간 네이버 뉴스 기사 크롤링<br/>
+             <strong>👩🏻‍💻Implement</strong> - GCP Compute Enginge(ML model serving), FE(React Native)
+            </td>
             <td>2024.01 ~ 2024.06</td>
         </tr>
         <tr>
             <td>SMWU 데이터분석 동아리 DACOS</td>
             <td>ImageBuzzy - CLIP 모델을 이용한 챗봇 기반 갤러리 내 이미지 검색 서비스</td>
             <td>
-             #Multi-modal&nbsp #FE <br/><br/>
-             전체적 챗봇 틀 기획 및 구현 / CLIP 모델을 이용한 갤러리 내 이미니 검색 서비스/ FE&BE(React Native, node.js, Flask)</td>
+             <strong>💡Ideation</strong> - 전체적 챗봇 틀 기획 및 구현<br/>
+             <strong>🗣🖼️Multi-modal</strong> - CLIP 모델<br/>
+             <strong>👩🏻‍💻Implement</strong> - FE&BE(React Native, node.js, Flask)
+            </td>
             <td>2023.12 ~ 2024.01</td>
         </tr>
         <tr>
             <td>ICT 멘토링 스마트해상물류 프로젝트</td>
             <td>강화학습을 이용한 최적의 항만 화물차 입항 스케줄링 시스템 개발</td>
             <td>
-             #RL&nbsp #FE&BE <br/><br/>
-             전체적 구현 총괄 / 시계열 데이터 분석, 알파고 제로를 이용한 스케줄링 모델 고안, 구현/ FE&BE(React Native, node.js, Flask)</td>
+             <strong>💡Ideation</strong> - 전체적 구현 총괄<br/>
+             <strong>📊Analysis</strong> - 시계열 데이터 분석<br/>
+             <strong>🦾RL</strong> - 알파고 제로를 이용한 스케줄링 모델 고안, 구현<br/>
+             <strong>👩🏻‍💻Implement</strong> - FE&BE(React Native, node.js, Flask)
+            </td>
             <td>2023.03 ~ 2023.11</td>
         </tr>
         <tr>
             <td>ICT 멘토링 스마트해상물류 프로젝트</td>
             <td>라즈베리 파이, VGG-KFace를 이용한 한국인 얼굴 인식을 이용한 출입 시스템</td>
             <td>
-             #CV&nbsp #RasberryPi <br/><br/>
-             VggFace fine-tuning based on contrastive learning / 라즈베리 파이와 VGG-KFace 모델 연동</td>
+             <strong>🖼️CV</strong> - VggFace fine-tuning based on contrastive learning<br/>
+             <strong>👩🏻‍💻Implement</strong> - 라즈베리 파이와 VGG-KFace 모델 연동
+            </td>
             <td>2023.03 ~ 2023.11</td>
         </tr>
         <tr>
             <td>숙명여자대학교 제 2회 해커톤 대회</td>
             <td>누리봄 웹 서비스 개발</td>
             <td>
-             #FE&BE <br/><br/>
-             FE/BE(django를 이용한 BE 개발 / html/css/kakao map api를 이용한 FE 개발)</td>
+             <strong>👩🏻‍💻Implement</strong> - FE/BE (django/html/css/kakao map api)</td>
             <td>2022.08.27 ~ 2022.08.24</td>
         </tr>
         <tr>
             <td>마켓컬리 해커톤</td>
             <td>마켓컬리’s 오밀조밀 웹 서비스 개발</td>
             <td>
-             #FE <br/><br/>
-             FE(React.js를 이용한 FE 개발)/DB ERD 구조 설계</td>
+             <strong>👩🏻‍💻Implement</strong> - FE(React.js) / DB ERD 구조 설계</td>
             <td>2021.12.01 ~ 2022.02.20</td>
         </tr>
     </tbody>
