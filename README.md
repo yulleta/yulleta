@@ -29,43 +29,76 @@
 
 <br/>
 
-<h2 align="left">😎 Skills</h2>
-<h4 align="left">Bigdata/AI knowledge background confidence</h4>
-<strong>📊Analysis </strong> ⭐⭐⭐ <br/>
-<strong>🗣NLP </strong> ⭐⭐⭐ <br/>
-<strong>🖼️CV </strong> ⭐⭐⭐ <br/>
-<strong>🦾RL </strong> ⭐⭐⭐ <br/>
-<strong>🤖Multi-modal </strong> ⭐⭐ <br/>
-<strong>📐LinearAlgebra_Calculus_Statistics </strong> ⭐⭐ <br/>
-<strong>⚙️Machine Learning </strong> ⭐⭐⭐⭐ <br/>
-
-<h4 align="left">ML/DL</h4>
-<div align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
-</div>
-<h4 align="left">Data Analysis</h4>
-<div align="left">
-  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/matplotlib-005A9C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-</div>
-<h4 align="left">Programming</h4>
-<div align="left">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp <br/>
-  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp <br/>
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+<div>
+ (Check out my tech-stacks via clicking on the toggle sub-titles!) <br/>
+ You can check my entire <a href="https://admitted-storm-2c4.notion.site/Minkyung-Kim-a4ad62d44e5f43ca8c564a89d2f9007e?pvs=4">CV here
 </div>
 
 <br/>
+
+<details>
+ <summary><h2 align="left">😎 Skills</h2></summary>
+ <ul>
+  <h4 align="left">Bigdata/AI knowledge background confidence</h4>
+   <table>
+     <tr>
+       <td><strong>⚙️Machine Learning</strong></td>
+       <td>⭐⭐⭐⭐</td>
+     </tr>
+     <tr>
+       <td><strong>📊Analysis</strong></td>
+       <td>⭐⭐⭐</td>
+     </tr>
+     <tr>
+       <td><strong>🗣NLP</strong></td>
+       <td>⭐⭐⭐</td>
+     </tr>
+     <tr>
+       <td><strong>🖼️CV</strong></td>
+       <td>⭐⭐⭐</td>
+     </tr>
+     <tr>
+       <td><strong>🦾RL</strong></td>
+       <td>⭐⭐⭐</td>
+     </tr>
+     <tr>
+       <td><strong>🤖Multi-modal</strong></td>
+       <td>⭐⭐</td>
+     </tr>
+     <tr>
+       <td><strong>📐LinearAlgebra_Calculus_Statistics</strong></td>
+       <td>⭐⭐</td>
+     </tr>
+   </table>
+
+   
+  <h4 align="left">ML/DL</h4>
+   <div align="left">
+     <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
+   </div>
+   <h4 align="left">Data Analysis</h4>
+   <div align="left">
+     <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/matplotlib-005A9C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+   </div>
+   <h4 align="left">Programming</h4>
+   <div align="left">
+     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+     <img src="https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp <br/>
+     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp <br/>
+     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+   </div>
+ </ul>
+</details>
 
 <details>
  <summary><h2 align="left">⭐ Projects</h2></summary>
