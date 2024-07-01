@@ -24,7 +24,7 @@
  
  I enjoy immersing to something fun, <br/>
  motivated to studying and implementing such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
- dreaming of the world of joy & happiness with love and freedom 🤍💞🕊️🔥<br/><br/>
+ dreaming of the world of joy & happiness with love and freedom aided by human-centric technologies 🤍💞🕊️🔥<br/><br/>
 
  💗 I enjoy studying with peers <br/>
  / Helps keep motivated, conversational studying stengthens my knowledge basis deeper, <br/>
