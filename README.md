@@ -7,7 +7,7 @@
 </div>
 -->
 
-<h3 align="center">
+<h3 align="left">
 🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/>
 🤍💞🕊️🔥
 </h3>
@@ -16,7 +16,7 @@
  Hi, I am KIM MINKYUNG from South Korea <br/>
  I aim to be a <strong>competent AI researcher / engineer expertise</strong> <br/>
  My recent interest field is <strong>image/3D graphics generation & reconstruction.</strong> <br/>
- (but also have a keen interest in other AI sub-fields(ex. NLP, RL, graph structure data etc.)) <br/>
+ (but also have a keen interest in other AI sub-fields(ex. NLP, RL, graph structure data etc.)) <br/><br/>
  I enjoy immersing to something fun, <br/>
  motivated to study such engineering theories & skills day and night, <br/>
  dreaming of the world of joy & happiness with love and freedom <br/>
@@ -25,14 +25,12 @@
 <br/><br/>
 
 <h3 align="left">😎 Skills</h3>
-<h4 align="left">Bigdata/AI background confidence</h4>
+<h4 align="left">Bigdata/AI knowledge background confidence</h4>
 <strong>📊Analysis </strong> ⭐⭐⭐ <br/>
 <strong>🗣NLP </strong> ⭐⭐⭐ <br/>
 <strong>🖼️CV </strong> ⭐⭐⭐ <br/>
 <strong>🦾RL </strong> ⭐⭐⭐ <br/>
 <strong>🤖Multi-modal </strong> ⭐⭐ <br/>
-
-<br/>
 
 <h4 align="left">ML/DL</h4>
 <div align="left">
