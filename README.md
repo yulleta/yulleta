@@ -76,7 +76,7 @@
      <td><strong>⚙️ ML/DL basics</strong></td>
      <td>⭐⭐⭐⭐</td>
      <td>
-      Studied basic algorithms, applicable to data<br/>
+      Studied basic algorithms, can apply appropriate algorithms to data<br/>
       Can explain the basics of DL relatively thoroughly
      </td>
    </tr>
