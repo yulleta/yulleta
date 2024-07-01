@@ -8,6 +8,7 @@
 -->
 
 <h3 align="left">
+STUDY & CREATE <br/>
 🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/>
 🤍💞🕊️🔥
 </h3>
@@ -32,6 +33,8 @@
 <strong>🖼️CV </strong> ⭐⭐⭐ <br/>
 <strong>🦾RL </strong> ⭐⭐⭐ <br/>
 <strong>🤖Multi-modal </strong> ⭐⭐ <br/>
+<strong>📐LinearAlgebra_Calculus_Statistics </strong> ⭐⭐ <br/>
+<strong>🤖Machine Learning </strong> ⭐⭐⭐⭐ <br/>
 
 <h4 align="left">ML/DL</h4>
 <div align="left">
