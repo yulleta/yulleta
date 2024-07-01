@@ -202,7 +202,7 @@
 <table>
     <thead>
         <tr>
-            <th>Awards</th>
+            <th>Awards & Honors</th>
             <th>Date</th>
         </tr>
     </thead>
