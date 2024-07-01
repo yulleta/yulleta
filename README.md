@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<h2 align="center">😎 Skills</h2>
+<h3 align="center">😎 Skills</h3>
 <h4 align="center">ML/DL</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
