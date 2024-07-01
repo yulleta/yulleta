@@ -8,7 +8,7 @@
 </h2>
 <div align="center">
  Hi, I am KIM MINKYUNG from South Korea <br/>
- I aim to be a <strong>competent AI reasearcher / engineer expertise</strong> <br/>
+ I aim to be a <strong>competent AI researcher / engineer expertise</strong> <br/>
  My recent interest field is 3D image/graphics generation & reconstruction. <br/>
  (but also have a keen interest in other AI sub-fields(ex. NLP, RL, graph structure data etc.) <br/>
  I enjoy immersing to something fun, <br/>
