@@ -7,6 +7,7 @@
 </div>
 -->
 
+
 <h1 align="left" >
  ${\textsf{\color{#fc49ac}STUDY and CREATE!!}}$	🛠️😆
 </h1>
@@ -25,8 +26,11 @@
  motivated to studying and implementing such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
  dreaming of the world of joy & happiness with love and freedom 🤍💞🕊️🔥<br/><br/>
 
- ++ I have a cat named Kkong, one from the profile! He is Sooooo adorable!!! 😻 <br/>
- ++ I enjoy listening to music, from KPOP to Indie band music 🎵 <br/>
+ 💗 I enjoy studying with peers <br/>
+ / Helps keep motivated, conversational studying stengthens my knowledge basis deeper, <br/>
+ / and for the most, learning from new and various POV is <strong>!!FUN!!</strong> <br/>
+ 💗 I have a cat named Kkong, one from the profile! He is Sooooo adorable!!! 😻 <br/>
+ 💗 I enjoy listening to music, from KPOP to Indie band music 🎵 <br/>
  (also enjoy singing though not a good singer)🎤
 </div>
 
