@@ -282,7 +282,7 @@
 </details>
 
 <details>
- <summary><h2 align="left">🚩 Extracurricular Activity</h2></summary>
+ <summary><h2 align="left">🚩 Extracurricular Activities</h2></summary>
  <ul>
   <div align="left" width="100%">
     <table>
