@@ -27,10 +27,11 @@
  - I enjoy...<br/>
    : <strong>`immersing to something FUN & Captivating`</strong>, <br/>
    - motivated to studying and implementing such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
-   - dreaming of the world of joy & happiness with love and freedom aided by human-centric technologies 🤍💞🕊️🔥<br/><br/>
+   - dreaming of the world of joy & happiness with love and freedom aided by human-centric technologies 🤍💞🕊️🔥<br/>
+   
+  <br/>
 
- - Contact me via : wendy5619@naver.com<br/><br/>
-
+- Plus ... Just my Favs ^0^<br/>
  💗 I enjoy studying with peers <br/>
  / Helps keep motivated, conversational studying stengthens my knowledge basis deeper, <br/>
  / and for the most, learning from new and various POV is <strong>!!FUN!!</strong> <br/>
@@ -38,6 +39,10 @@
  💗 I enjoy listening to music, from KPOP to Indie band music 🎵 <br/>
  (also enjoy singing though not a good singer)🎤
 
+<br/>
+
+ - Contact me via : wendy5619@naver.com<br/>
+ - ❗❗ You can check out my entire 👉<span></span><a href="https://admitted-storm-2c4.notion.site/Minkyung-Kim-a4ad62d44e5f43ca8c564a89d2f9007e?pvs=4">CV here</a>👈 ❗❗<br/>
 
 <br/>
 
@@ -69,13 +74,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;한국정보처리학회 학술대회논문집, vol. 30, no. 2, pp. 1100-1101, 2023.
   &nbsp;<span><a href="https://kiss.kstudy.com/Detail/Ar?key=4059593">link</a></span>
   &nbsp;&nbsp;&nbsp;<em>(2023.03 - 2023.11)</em><br/>
-</div>
-
-<br/>
-
-<div>
- ❗❗ You can check out my entire 👉<span></span><a href="https://admitted-storm-2c4.notion.site/Minkyung-Kim-a4ad62d44e5f43ca8c564a89d2f9007e?pvs=4">CV here</a>👈 ❗❗<br/>
- 
 </div>
 
 <br/>
