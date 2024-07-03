@@ -25,7 +25,7 @@
  (but also have a keen interest on other AI sub-fields(ex. NLP, RL, graph structure data, optimization... etc.)) <br/><br/>
  
  - I enjoy...<br/>
-   : immersing to something <strong>FUN & Captivating</strong>, <br/>
+   : <strong>`immersing to something FUN & Captivating`</strong>, <br/>
    - motivated to studying and implementing such engineering theories & skills day and night, ☀️🌙📚🖊️🤩 <br/>
    - dreaming of the world of joy & happiness with love and freedom aided by human-centric technologies 🤍💞🕊️🔥<br/><br/>
 
