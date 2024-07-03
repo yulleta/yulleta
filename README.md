@@ -74,7 +74,7 @@
 <br/>
 
 <div>
- You can check out my entire <span></span><a href="https://admitted-storm-2c4.notion.site/Minkyung-Kim-a4ad62d44e5f43ca8c564a89d2f9007e?pvs=4">CV here</a><br/>
+ ❗❗ You can check out my entire <span></span><a href="https://admitted-storm-2c4.notion.site/Minkyung-Kim-a4ad62d44e5f43ca8c564a89d2f9007e?pvs=4">CV here</a> ❗❗<br/>
  
 </div>
 
