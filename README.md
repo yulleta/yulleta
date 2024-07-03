@@ -176,5 +176,7 @@
      <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=flat-square&logo=google-colab&logoColor=white" />&nbsp;
+     <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />&nbsp;
 </div>
+
 
