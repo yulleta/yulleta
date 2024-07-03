@@ -56,7 +56,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2023.07 - 2024.07)</em> <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;운영지원팀 스터디장 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>(2024.01 - 2024.07</em>) <br/>
- ‭🏆&nbsp; GDSC Solution Challenge 2024 Top100 : TrueTree
+ ‭🏆&nbsp; GDSC Solution Challenge 2024 Top100 finalist: TrueTree
  &nbsp;<span><a href="https://github.com/2024-FactChecker-SolutionChallenge">link</a></span>
  &nbsp;&nbsp;&nbsp;<em>(2024.01 - 2024.05)</em><br/>
  📃&nbsp; 김민경, 박수아, 이해영, 김나영 and 유상오. <br/>
