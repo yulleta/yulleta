@@ -16,7 +16,7 @@
 🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/>
 </h3>
 
- - Contact me via : wendy5619@naver.com<br/>
+ - Contact me via : mg09091234@gmail.com<br/>
 
 <br/>
 
