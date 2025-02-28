@@ -42,6 +42,8 @@
      <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/java-007396.svg?style=flat-square&logo=java&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=flat-square&logo=c&logoColor=white" />&nbsp;
+     <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" />&nbsp;
+     <img src="https://img.shields.io/badge/Torch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" />&nbsp;
 </div>
 
 <h4 align="left">Environment</h4>
