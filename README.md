@@ -13,22 +13,16 @@
 </h1>
 
 <h3 align="left">
-🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/>
+🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/><br/>
 </h3>
 
  - Contact me via : mg09091234@gmail.com<br/><br/>
 
-! Check out my CV & Portfolio ! <br/>
+- Check out my CV & Portfolio ! <br/><br/>
 [김민경_CV.pdf](https://github.com/user-attachments/files/19797958/_.pdf)<br/>
 [김민경_포토폴리오.pdf](https://github.com/user-attachments/files/19797960/_.1.pdf)<br/><br/>
-
 [MINKYUNG KIM_CV.pdf](https://github.com/user-attachments/files/19798001/MINKYUNG.KIM_CV.1.pdf)<br/>
 [MINKYUNG KIM_PORTFORLIO.pdf](https://github.com/user-attachments/files/19798003/MINKYUNG.KIM_PORTFORLIO.pdf)<br/><br/>
-
-
-<br/>
-
-<br/>
 
 <h4 align="left">Data Analysis</h4>
 <div align="left">
@@ -63,8 +57,6 @@
 </div>
 
 <br/><br/>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yulleta/yulleta/edit/main/README.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 
 
