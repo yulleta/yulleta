@@ -16,13 +16,18 @@
 🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/><br/>
 </h3>
 
- - Contact me via : mg09091234@gmail.com<br/><br/>
+### 📄 Resume / Portfolio
 
-- Check out my CV & Portfolio ! <br/><br/>
-[김민경_CV.pdf](https://github.com/user-attachments/files/19797958/_.pdf)<br/>
-[김민경_포트폴리오.pdf](https://github.com/user-attachments/files/19797960/_.1.pdf)<br/><br/>
-[MINKYUNG KIM_CV.pdf](https://github.com/user-attachments/files/19798001/MINKYUNG.KIM_CV.1.pdf)<br/>
-[MINKYUNG KIM_PORTFOLIO.pdf](https://github.com/user-attachments/files/19798003/MINKYUNG.KIM_PORTFORLIO.pdf)<br/><br/>
+#### 🗂 한글
+- [이력서 (PDF)](https://github.com/yulleta/cv_portfolio/blob/main/%EA%B9%80%EB%AF%BC%EA%B2%BD_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
+- [포트폴리오 (PDF)](https://github.com/yulleta/cv_portfolio/blob/main/%EA%B9%80%EB%AF%BC%EA%B2%BD_%ED%8F%AC%ED%86%A0%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+
+#### 🌐 English
+- [CV (PDF)](https://github.com/yulleta/cv_portfolio/blob/main/MINKYUNG%20KIM_CV.pdf)
+- [Portfolio (PDF)](https://github.com/yulleta/cv_portfolio/blob/main/MINKYUNG%20KIM_PORTFORLIO.pdf)
+
+#### 📩 Contact me via 
+- mg09091234@gmail.com<br/><br/>
 
 <h4 align="left">Data Analysis</h4>
 <div align="left">
