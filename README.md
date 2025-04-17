@@ -16,7 +16,15 @@
 🤩💫🎈✨🧠🚩📂📚🎨✍💡 <br/>
 </h3>
 
- - Contact me via : mg09091234@gmail.com<br/>
+ - Contact me via : mg09091234@gmail.com<br/><br/>
+
+! Check out my CV & Portfolio ! <br/>
+[김민경_CV.pdf](https://github.com/user-attachments/files/19797958/_.pdf)<br/>
+[김민경_포토폴리오.pdf](https://github.com/user-attachments/files/19797960/_.1.pdf)<br/><br/>
+
+[MINKYUNG KIM_CV.pdf](https://github.com/user-attachments/files/19798001/MINKYUNG.KIM_CV.1.pdf)<br/>
+[MINKYUNG KIM_PORTFORLIO.pdf](https://github.com/user-attachments/files/19798003/MINKYUNG.KIM_PORTFORLIO.pdf)<br/><br/>
+
 
 <br/>
 
@@ -53,5 +61,10 @@
      <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=flat-square&logo=google-colab&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />&nbsp;
 </div>
+
+<br/><br/>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yulleta/yulleta/edit/main/README.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 
 
