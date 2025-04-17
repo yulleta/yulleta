@@ -20,7 +20,7 @@
 
 - Check out my CV & Portfolio ! <br/><br/>
 [김민경_CV.pdf](https://github.com/user-attachments/files/19797958/_.pdf)<br/>
-[김민경_포토폴리오.pdf](https://github.com/user-attachments/files/19797960/_.1.pdf)<br/><br/>
+[김민경_포트폴리오.pdf](https://github.com/user-attachments/files/19797960/_.1.pdf)<br/><br/>
 [MINKYUNG KIM_CV.pdf](https://github.com/user-attachments/files/19798001/MINKYUNG.KIM_CV.1.pdf)<br/>
 [MINKYUNG KIM_PORTFORLIO.pdf](https://github.com/user-attachments/files/19798003/MINKYUNG.KIM_PORTFORLIO.pdf)<br/><br/>
 
