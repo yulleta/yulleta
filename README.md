@@ -20,7 +20,7 @@
 
 #### 🗂 한글
 - [이력서 (PDF)](https://github.com/yulleta/cv_portfolio/blob/main/%EA%B9%80%EB%AF%BC%EA%B2%BD_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
-- [포트폴리오 (PDF)](https://github.com/yulleta/cv_portfolio/blob/main/%EA%B9%80%EB%AF%BC%EA%B2%BD_%ED%8F%AC%ED%86%A0%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+- [포트폴리오 (PDF)](https://github.com/yulleta/cv_portfolio/blob/main/%EA%B9%80%EB%AF%BC%EA%B2%BD_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 #### 🌐 English
 - [CV (PDF)](https://github.com/yulleta/cv_portfolio/blob/main/MINKYUNG%20KIM_CV.pdf)
